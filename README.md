@@ -8,7 +8,7 @@ The series follows a group of kids as they encounter supernatural events, govern
 
 ## Characters
 - **Eleven:** A young girl with psychokinetic abilities and a mysterious past.
-- **Mike, Dustin, and Lucas:** Friends of Will Byers who embark on a quest to find him when he goes missing.
+- **Mike, Dustin, and Lucas:** Friends of Will Byers who went on a quest to find him when he goes missing.
 - **Chief Jim Hopper:** The town's police chief, who becomes central to uncovering the mysteries in Hawkins.
 
 ## Highlights
